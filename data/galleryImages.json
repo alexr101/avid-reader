@@ -1,0 +1,47 @@
+{
+  "gallery":{
+    "images": [
+      {
+        "id": 1,
+        "url": "./public/images/Bookworm-Bookshelf.jpg" 
+      },
+      {
+        "id": 2,
+        "url": "./public/images/america-bookshelf.jpg" 
+      },
+      {
+        "id": 3,
+        "url": "./public/images/creative-bookshelves-02.jpg" 
+      },
+      {
+        "id": 4,
+        "url": "./public/images/creative-bookshelves-19.jpg" 
+      },
+      {
+        "id": 5,
+        "url": "./public/images/creative-bookshelves-05.jpg" 
+      },
+      {
+        "id": 6,
+        "url": "./public/images/creative-bookshelves-13.jpg" 
+      },
+      {
+        "id": 7,
+        "url": "./public/images/creative-bookshelves-01.jpg" 
+      },
+      {
+        "id": 8,
+        "url": "./public/images/creative-bookshelves-47.jpg" 
+      },
+      {
+        "id": 9,
+        "url": "./public/images/awesome_bookshelf_designs_15.jpg" 
+      },
+      {
+        "id": 3,
+        "url": "./public/images/creative-bookshelves-02.jpg" 
+      }    
+    ]
+    
+  }
+}

@@ -1,0 +1,4 @@
+Colors
+
+Dark Blue: #2c3e50
+Light Gray: #ecf0f1
