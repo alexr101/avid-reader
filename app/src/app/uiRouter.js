@@ -26,6 +26,10 @@ angular.module('app')
           },
           'newsletter@gallery': {
             templateUrl: 'app/components/newsletter/newsletterView.html'
+          },
+          'artShows@gallery': {
+            templateUrl: 'app/components/artShows/artShows.html',
+            controller: 'ArtShowsCtrl'
           }
         }
       }
@@ -80,5 +84,4 @@ angular.module('app')
       $stateProvider.state(contact);
       $stateProvider.state(privacyPolicy);
       $stateProvider.state(auth);
-      
-  }])
+  }]);
